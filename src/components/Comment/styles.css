@@ -1,0 +1,18 @@
+.commentContainer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0 5%;
+  font-weight: normal;
+  height: 30px;
+}
+
+.username {
+  font-size: 1.2rem;
+}
+
+.comment {
+  margin-left: 10px;
+  font-size: 1rem;
+  font-weight: normal;
+}
