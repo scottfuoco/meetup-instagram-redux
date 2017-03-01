@@ -1,4 +1,5 @@
 import { combineReducers } from 'redux';
+
 import postReducer from './postReducer';
 import commentInputTextReducer from './commentInputTextReducer';
 import usernameReducer from './usernameReducer';
